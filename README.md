@@ -1,0 +1,1 @@
+Practica del funcionamiento de layout en react.native
